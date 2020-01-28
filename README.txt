@@ -1,5 +1,3 @@
-Instructions for the program are provided in asg4-oop-inheritance.pdf
-
 =================================================================
 My implementation of the code is in:
 
